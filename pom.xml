@@ -24,6 +24,7 @@
             <groupId>org.infinispan</groupId>
             <artifactId>infinispan-embedded</artifactId>
             <version>${infinispan-version}</version>
+            <scope>provided</scope>
         </dependency>
 
         <dependency>
